@@ -1,6 +1,6 @@
 # kimgop
 
-A new Flutter project.
+Est une appication android permettant de plus aisement élaborer des aliments de volailles sur la base de tableau de composition suivant les besoins de ces volailles 
 
 ## Getting Started
 
