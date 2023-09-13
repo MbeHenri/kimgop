@@ -1,0 +1,39 @@
+name: kimgop
+description: une application mobile permettant de rendre plus aisée la composition d'aliments selon leur utilisation
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  sqlite3: ^1.6.1
+  sqlite3_flutter_libs: ^0.4.2
+  path_provider: any
+  pdf: ^3.8.3
+  path: any
+  printing: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/
+    - assets/fonts/Helvetica/
