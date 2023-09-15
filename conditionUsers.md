@@ -2,5 +2,5 @@
 
 ## Règles de confidentialité
 
-Aucune information de l'utilisateur n'est conservé.
-Nous sauvegardons dans le système local de l'utilisateurs ses tables de composition et de recommandations.
+Aucune information de l'utilisateur n'est conservée.
+Nous sauvegardons dans le système local de l'utilisateur ses tables de composition et de recommandations.

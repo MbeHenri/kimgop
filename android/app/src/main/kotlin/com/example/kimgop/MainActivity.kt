@@ -1,4 +1,4 @@
-package com.example.kimgop
+package com.mbecode.kimgop
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -4,7 +4,7 @@ description: une application mobile permettant de rendre plus aisée la composit
 # Prevent accidental publishing to pub.dev.
 publish_to: 'none'
 
-version: 1.0.0+2
+version: 1.0.0+4
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
